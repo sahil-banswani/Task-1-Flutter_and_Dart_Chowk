@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:shopee/pages/main_home_page.dart';
 
 void main() {
-  // SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
-  //   statusBarColor: Colors.transparent
-  // ));
   runApp(const MyApp());
 }
 
